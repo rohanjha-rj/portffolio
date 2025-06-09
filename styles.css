@@ -441,11 +441,6 @@ body.dark-mode footer{background-color:#0d47a1}
   }
   .timeline-content:before{left:-30px!important;right:auto!important}
   .section{padding:1.5rem}
-  .scroll-to-top
-  {
-    width:40px;height:40px;font-size:1.2rem;
-    bottom:20px;right:20px
-  }
 }
 @media screen and (max-width:480px)
 {
